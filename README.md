@@ -1,6 +1,5 @@
 
-* `@jcape@mastadon.lol` on [Mastadon](https://mastadon.lol/@jcape)
-* `@jcape` on [Twitter](https://twitter.com/jcape)
+* https://mastodon.lol/@jcape
 
 <!--
 **jcape/jcape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
